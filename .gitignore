@@ -110,7 +110,7 @@ Temporary Items
 .apdisk
 
 # =========================
-# Rivo setting files
+# Rivo runtime setting files
 # =========================
 
-config.yml
+/config.yml
